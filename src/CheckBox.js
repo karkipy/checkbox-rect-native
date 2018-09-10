@@ -5,7 +5,11 @@ const style = {
 };
 
 const CheckBox = () => (
-
+  <View>
+    <TouchableHighlight>
+      <View />
+    </TouchableHighlight>
+  </View>
 );
 
 export default CheckBox;
